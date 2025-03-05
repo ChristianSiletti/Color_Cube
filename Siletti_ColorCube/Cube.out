@@ -1,0 +1,44 @@
+Largest Contiguous Block:
+
+***	***	***	***	***	
+***	***	***	***	***	
+***	***	***	***	***	
+***	***	ORG	***	***	
+***	***	ORG	***	***	
+
+***	***	***	***	***	
+***	***	***	***	***	
+***	***	ORG	***	***	
+***	ORG	ORG	***	***	
+***	***	***	***	***	
+
+***	***	***	***	***	
+***	***	***	***	***	
+***	ORG	ORG	***	***	
+***	***	***	***	***	
+***	***	***	***	***	
+
+***	***	***	***	***	
+***	***	***	***	***	
+***	***	ORG	***	***	
+***	***	***	***	***	
+***	***	***	***	***	
+
+***	***	***	***	***	
+***	***	***	***	***	
+***	***	***	***	***	
+***	***	***	***	***	
+***	***	***	***	***	
+
+[There are 8 ORG cells within this block]
+
+[There are 6 YEL cells within the second largest contiguous block]
+
+Color Statistics:
+RED Cells: 21
+ORG Cells: 30
+YEL Cells: 29
+GRN Cells: 21
+BLU Cells: 24
+The principle color was ORG, it took up 24.00% of the cube.
+The second most populous color was YEL, it took up 23.20% of the cube.
